@@ -1,1 +1,31 @@
-# LeetCode Daily Challenge This repository contains my solutions to the **Daily LeetCode Challenge** problems, implemented in **C++**. I aim to solve at least one problem each day, improving problem-solving skills, mastering algorithms, and preparing for coding interviews. ## 📂 Repository Structure * Each file is named according to the problem title or number. * Solutions are written in **C++** with clean and optimized code. * May include additional explanations or screenshots for complex problems. ## 🎯 Goals * Strengthen **Data Structures & Algorithms** knowledge. * Improve **competitive programming** skills. * Maintain **consistency** through daily practice. ## 🛠️ Tech Stack * **Language:** C++ * **Platform:** [LeetCode](https://leetcode.com/u/pradeepxkumar/) * **Tools:** VS Code / Online IDEs ## 📅 Progress I will be updating this repository **daily** with new problem solutions. ## 📬 Contact 📧 [pradeep20052004@gmail.com](mailto:pradeep20052004@gmail.com) 🔗 [LinkedIn](https://www.linkedin.com/in/pradeepxkumar5/)
+# LeetCode Daily Challenge
+
+This repository contains my solutions to the **Daily LeetCode Challenge** problems, implemented in **C++**. I aim to solve at least one problem each day, improving problem-solving skills, mastering algorithms, and preparing for coding interviews.
+
+## 📂 Repository Structure
+
+- Each file is named according to the problem title or number
+- Solutions are written in **C++** with clean and optimized code
+- May include additional explanations or screenshots for complex problems
+
+## 🎯 Goals
+
+- Strengthen **Data Structures & Algorithms** knowledge
+- Improve **competitive programming** skills
+- Maintain **consistency** through daily practice
+
+## 🛠️ Tech Stack
+
+- **Language:** C++
+- **Platform:** [LeetCode](https://leetcode.com/u/pradeepxkumar/)
+- **Tools:** VS Code / Online IDEs
+
+## 📅 Progress
+
+I will be updating this repository **daily** with new problem solutions.
+
+## 📬 Contact
+
+📧 [pradeep20052004@gmail.com](mailto:pradeep20052004@gmail.com)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/pradeepxkumar5/)
